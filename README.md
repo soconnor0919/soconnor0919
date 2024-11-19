@@ -1,6 +1,6 @@
 # Hi! I'm Sean. 👋
 
-Welcome to my GitHub profile! I'm a Computer Science and Engineering student at Bucknell University with a passion for robotics, software development, and human-computer interaction. My work bridges the gap between theoretical research and practical applications, blending creativity, technical expertise, and interdisciplinary collaboration.  
+Welcome to my GitHub! I'm a Computer Science and Engineering student at Bucknell University with a passion for robotics, software development, and human-robot interaction. My work bridges the gap between theoretical research and practical applications, blending creativity, technical expertise, and interdisciplinary collaboration.  
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student at 
 ## 🎯 **About Me**  
 I believe in the power of technology to create meaningful, inclusive solutions for complex challenges. Whether I'm designing scalable web applications, prototyping robotic systems, or collaborating on interdisciplinary research, I approach each project with curiosity and a drive to make an impact.  
 
-When I’m not coding, you can find me leading a team to success, experimenting with robotics, or enjoying a good cup of coffee.  
+When I’m not coding, you can find me leading a team to success or experimenting with robotics.  
 
 Feel free to explore my repositories and reach out if you'd like to collaborate. Let's build something amazing together!  
 
